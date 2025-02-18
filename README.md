@@ -6,6 +6,7 @@ Backend: RESTful APIs for authentication and transactions.
 Database: SQL-based for storing user and product data.
 Security: Basic authentication and session management.
 Testing Scope: Functional, security, and performance testing.
+
 Project Plan
 1. Planning
 Goals: Ensure the functionality, security, and performance of the DemoBlaze e-commerce platform.
