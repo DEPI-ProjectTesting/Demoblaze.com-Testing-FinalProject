@@ -24,8 +24,8 @@ Alaa Zean Elabdeen Saber --> Manual & Automation Tester
 
 Sarah Sobhy Atta --> Manual & Automation Tester
 
-Amany Metwally Abdelghaffar --> Manual & Automation Tester "Project Manager" 
+Amany Metwally Abdelghaffar --> Manual & Automation Tester
 
-Aly Farag Aly --> Manual & Automation Tester "Test Lead"
+Aly Farag Aly --> Manual & Automation Tester
 
 
