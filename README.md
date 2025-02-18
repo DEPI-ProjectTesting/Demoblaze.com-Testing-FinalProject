@@ -20,9 +20,13 @@ Analyze test results and optimize the system for reliability and efficiency.
 
 Members:
 Ibrahim Ayman Ibrahim --> Manual & Automation Tester 
+
 Alaa Zean Elabdeen Saber --> Manual & Automation Tester
+
 Sarah Sobhy Atta --> Manual & Automation Tester
+
 Amany Metwally Abdelghaffar --> Manual & Automation Tester "Project Manager" 
+
 Aly Farag Aly --> Manual & Automation Tester "Test Lead"
 
 
