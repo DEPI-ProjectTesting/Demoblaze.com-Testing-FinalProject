@@ -18,14 +18,14 @@ Analyze test results and optimize the system for reliability and efficiency.
 
 Members:
 
-Ibrahim Ayman Ibrahim --> Manual & Automation Tester 
+Ibrahim Ayman Ibrahim --> Manual Testing 
 
-Alaa Zean Elabdeen Saber --> Manual & Automation Tester
+Alaa Zean Elabdeen Saber --> Automation Tester
 
-Sarah Sobhy Atta --> Manual & Automation Tester
+Sarah Sobhy Atta --> Manual Testing
 
-Amany Metwally Abdelghaffar --> Manual & Automation Tester
+Amany Metwally Abdelghaffar --> Database
 
-Aly Farag Aly --> Manual & Automation Tester
+Aly Farag Aly --> API & Automation
 
 
