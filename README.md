@@ -23,9 +23,9 @@ Group A
 
 Ibrahim Ayman Ibrahim: Manual 
 
-Aly Farag Aly: Database and APIs
+Aly Farag Aly: Automation and DAtabase
 
-Alaa Zean Elabdeen Saber: Manual and Automation
+Alaa Zean Elabdeen Saber: APIs
 
 Sarah Sobhy Atta: Manual
 
