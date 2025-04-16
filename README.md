@@ -36,3 +36,6 @@ Test case sheet: https://docs.google.com/spreadsheets/d/1Q8UCOJ_chZgheP3A_2sXR08
 
 
 Bug Reports sheet: https://docs.google.com/spreadsheets/d/1s8H3vUEB8UduL0RmfZibE62NtHn-MmHz6SIvRrdZbkY/edit?gid=466419723#gid=466419723
+
+
+https://jenkins.tarqim.info/job/FinalProjectG6-groupA-DEPI/
